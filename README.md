@@ -23,3 +23,11 @@ General descriptions about the game
 # Usage
 To play the game, run covid.py. The program will prompt players to solve puzzles based on quotes extracted from quotes.txt. Players can interact with the game, filling in missing words or phrases to complete the quotes. 
 # Program Logic
+![image](https://github.com/YunPeng218/YunPeng218-Clash-of-Vocabulary-Intellects-Dummies-C.O.V.I.D-/assets/31543834/5998be3a-62e4-4354-8320-5c07ec67b4f9)
+![image](https://github.com/YunPeng218/YunPeng218-Clash-of-Vocabulary-Intellects-Dummies-C.O.V.I.D-/assets/31543834/ac4ee347-2660-40f9-8d2a-760cb1c7af98)
+![image](https://github.com/YunPeng218/YunPeng218-Clash-of-Vocabulary-Intellects-Dummies-C.O.V.I.D-/assets/31543834/7c053c7f-8d4a-49f0-9a4e-e9761a7d6f84)
+![image](https://github.com/YunPeng218/YunPeng218-Clash-of-Vocabulary-Intellects-Dummies-C.O.V.I.D-/assets/31543834/68ef7e15-7bb8-487f-96cf-7beccd8c0336)
+![image](https://github.com/YunPeng218/YunPeng218-Clash-of-Vocabulary-Intellects-Dummies-C.O.V.I.D-/assets/31543834/68270975-e1a9-44d0-b21c-c021ab9089da)
+![image](https://github.com/YunPeng218/YunPeng218-Clash-of-Vocabulary-Intellects-Dummies-C.O.V.I.D-/assets/31543834/a06232b4-1c69-45f8-9b85-e128d58595fe)
+![image](https://github.com/YunPeng218/YunPeng218-Clash-of-Vocabulary-Intellects-Dummies-C.O.V.I.D-/assets/31543834/311b2f12-9860-4547-8589-809f11ea7e24)
+![image](https://github.com/YunPeng218/YunPeng218-Clash-of-Vocabulary-Intellects-Dummies-C.O.V.I.D-/assets/31543834/f48cef52-e893-49b7-ae05-9cec4acd74bd)
